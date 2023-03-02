@@ -25,3 +25,4 @@ KSP2 souhaite simplifier la création de mods à sa communauté. Il proposera un
 #### [Instance d'une partie de KSP2](https://github.com/MrCubee/KSP2-Info/blob/master/src/KSP/Game/GameInstance.cs)
 #### [Gestion des recherches qui sera accessible à la prochaine mise à jour de KSP2 qui ajoutera le mode Science, il est pour l'instant non accessible](https://github.com/MrCubee/KSP2-Info/blob/master/src/KSP/Research/ResearchManager.cs)
 #### [Technologie débloquable qui sera accessible à la prochaine mise à jour de KSP2 qui ajoutera le mode Science, il est pour l'instant non accessible](https://github.com/MrCubee/KSP2-Info/blob/master/src/KSP/Research/Technology.cs)
+#### [Gestion du compte pour le mode multijoueur qui sera implémenter dans une prochaine mise à jour](https://github.com/MrCubee/KSP2-Info/blob/master/src/KSP/Networking/MP/AccountManagement.cs)
